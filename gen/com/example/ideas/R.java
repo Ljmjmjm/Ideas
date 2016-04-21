@@ -153,10 +153,11 @@ containing a value of this type.
         public static final int user_bg=0x7f02000a;
     }
     public static final class id {
-        public static final int action_settings=0x7f08001c;
+        public static final int action_settings=0x7f08001d;
         public static final int btn_login=0x7f080005;
         public static final int btn_register=0x7f080012;
         public static final int btn_register_code=0x7f080011;
+        public static final int btn_reset=0x7f08001c;
         public static final int btn_reset_code=0x7f080018;
         public static final int edt_login_phone=0x7f080001;
         public static final int edt_login_pw=0x7f080003;
