@@ -10,7 +10,7 @@
         android:layout_height="0dp"
         android:layout_alignParentTop="true"
         app:layout_heightPercent="43%h" >
-
+        
         <ImageView
             android:layout_width="0dp"
             android:layout_height="0dp"
